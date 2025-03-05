@@ -1,7 +1,7 @@
 #include "calculator.h"
 #include <stdio.h>
 
-double pi = 3.141592653589793;  // 전역 변수로 PI 값 정의
+#define PI 3.141592653589793 
 
 int add(int a, int b) {
     return a + b;
