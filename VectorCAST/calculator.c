@@ -1,8 +1,6 @@
 #include "calculator.h"
 #include <stdio.h>
 
-#define PI 3.141592653589793 
-
 int add(int a, int b) {
     return a + b;
 }
